@@ -1,0 +1,54 @@
+.box-container {
+    width: 30vw;
+    height: 60vh;
+    background-color: grey;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+  }
+  
+  .result-screen {
+    grid-column: 1 / -1;
+    color: white;
+    padding: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 2rem;
+  }
+  
+  .btn {
+    all: unset;
+    display: grid;
+    place-content: center;
+    background-color: #ccc;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    padding: 2rem 4rem;
+    font-size: 1.4rem;
+  }
+  
+  .btn:hover {
+    background-color: grey;
+    color: white;
+  }
+  
+  .btn:active {
+    background-color: black;
+  }
+  
+  .hover-btn {
+    background-color: #f3913e;
+  }
+  
+  .hover-btn:hover {
+    background-color: #ff4300;
+  }
+  
+  .hover-btn:active {
+    background-color: #d30000;
+  }
+  
+  .screen-num {
+    grid-column: 1 / span 2;
+  }
+  
