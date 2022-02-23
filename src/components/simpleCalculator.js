@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './simpleCalculator.css';
-import calculate from './logic/calculate.js';
+import calculate from './logic/calculate';
 
 class Calculator extends Component {
   constructor(props) {
