@@ -51,3 +51,9 @@
 .screen-num {
   grid-column: 1 / span 2;
 }
+
+@media (min-width: 992px) {
+  .box-container {
+    width: 45vw;
+  }
+}
