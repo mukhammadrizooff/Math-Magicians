@@ -1,8 +1,8 @@
 import './quote.css';
 
 const Quote = () => {
-  const quoteText = 'Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.';
-  const authorQuote = '-William paul Thurston';
+  const quoteText = '“Live as if you were to die tomorrow. Learn as if you were to live forever.”';
+  const authorQuote = '– Mahatma Gandhi';
 
   return (
     <div className="container-quote">
