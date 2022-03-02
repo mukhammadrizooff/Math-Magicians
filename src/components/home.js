@@ -6,7 +6,7 @@ function Home() {
   return (
     <section className="container-home">
       <h1>Welcome to our Page!</h1>
-      <p>{par}</p>     
+      <p>{par}</p>
     </section>
   );
 }
