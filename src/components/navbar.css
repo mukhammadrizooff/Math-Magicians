@@ -1,7 +1,7 @@
 nav {
   padding: 3rem;
   color: black;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255 255 255);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -20,26 +20,26 @@ ul {
 
 ul li a {
   text-decoration: none;
-  color: rgb(39, 39, 39);
+  color: rgb(39 39 39);
   outline: none;
 }
 
 ul li:not(:first-child)::before {
   content: "";
-  border-left: 1px solid rgb(0, 217, 255);
+  border-left: 1px solid rgb(0 217 255);
   padding: 0 0 0 1rem;
   margin-left: 1rem;
 }
 
 .nav-logo {
   text-decoration: none;
-  color: rgb(32, 30, 30) !important;
+  color: rgb(32 30 30) !important;
   text-align: center;
   display: flex;
 }
 
 .active {
-  color: rgb(0, 183, 255);
+  color: rgb(0 183 255);
 }
 
 /* media queries */

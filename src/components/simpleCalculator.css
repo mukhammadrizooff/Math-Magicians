@@ -9,7 +9,7 @@
 .main-container p {
   font-size: 1.8rem;
   font-weight: bold;
-  background-color: rgb(0, 217, 255);
+  background-color: rgb(0 217 255);
   border-radius: 8px;
   padding: 1rem 4rem;
 }
@@ -53,7 +53,7 @@
 }
 
 .hover-btn {
-  background-color: #ff9900;
+  background-color: #f90;
 }
 
 .hover-btn:hover {
