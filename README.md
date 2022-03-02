@@ -25,7 +25,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://mukhammadrizooff.github.io/Math-Magicians/)
+[Live Demo Link](https://mukhammadrizooff.github.io/Math-Magicians/public)
 
 ## Getting Started
 
