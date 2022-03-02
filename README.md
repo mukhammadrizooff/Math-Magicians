@@ -3,7 +3,7 @@
 # Getting Started with Create React App
 > This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application. In the following projects, I develop the actual application.
 ## Screenshots:
-
+![2022-03-03_02-08-37](https://user-images.githubusercontent.com/63915024/156459341-38c21f73-ac8e-4646-a685-b55d456ee8eb.png)
 
 
 ## Built With
