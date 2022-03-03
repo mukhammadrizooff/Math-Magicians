@@ -7,7 +7,7 @@ test('If buttonName passed as parameter is AC, expect returned values to be null
   // Act
   const solution = calculate(obj, buttonName);
   // Assert
-  expect(solution).toEqual({ total: null, next: null, operation: null });
+  expect(solution).toEqual({ total: 0, next: null, operation: null });
 });
 
 describe('Testing for when there are no operations added yet', () => {
